@@ -1,0 +1,101 @@
+body {
+  width: 50%;
+  margin: 0 auto;
+  background-color: #222;
+  color: white;
+  /* Set text color to contrast with the background */
+  animation: colorChange 10s infinite alternate;
+}
+
+@keyframes colorChange {
+  0% {
+    background-color: #d4d3d3;
+  }
+  50% {
+    background-color: #88c3c1;
+    /* Change to another color at 50% */
+  }
+  100% {
+    background-color: #d39bb6;
+  }
+}
+
+header {
+  text-align: center;
+}
+
+header h1 {
+  font-size: 100px;
+  color: #402c50;
+  font-weight: 500;
+}
+
+input {
+  font-size: 20px;
+  color: #2c3e50;
+  width: 100%;
+  border: none;
+  outline: none;
+  border-bottom: 1px solid #2c3e50;
+  padding: 5px;
+  margin: 20px 0;
+}
+
+.task {
+  background-color: #51345e;
+  padding: 15px;
+  margin: 5px;
+  border-radius: 5px;
+  cursor: pointer;
+  color: white;
+  /* Set text color to contrast with the background */
+  font-size: 16px;
+  /* Adjust the font size for readability */
+}
+
+.task span {
+  color: #ffffff;
+}
+
+.icon {
+  float: right;
+  margin-right: 20px;
+}
+
+article {
+  display: grid;
+}
+
+.edit-todo {
+  width: 85%;
+  font-size: 16px;
+  color: #dcf3f7;
+  background-color: transparent;
+  border: none;
+  border-bottom: 1px solid #ffffff;
+}
+
+.button {
+  margin: 0 10px;
+  padding: 10px;
+  font-size: 14px;
+  color: rgb(95, 57, 120);
+  background-color: #e0b7ef;
+  border: none;
+  cursor: pointer;
+  width: 100px;
+  border-radius: 5px;
+  margin-top: 15px;
+}
+
+.button.selected {
+  color: #fff;
+  background-color: #6c6777f3;
+}
+
+.button.clear {
+  float: right;
+  color: #fff;
+  background-color: #e35050;
+  width: 170px;
+}

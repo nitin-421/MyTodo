@@ -80,4 +80,24 @@ You can learn more about Create React App in the [documentation](https://faceboo
 
 ## Keywords
 
-MERN stack, React, MongoDB, Express.js, Node.js, CRUD operations, Web application, Task management, To-Do list, Frontend development, Backend development, JavaScript, HTML, CSS, RESTful API, User interface design, Responsive design, Test-driven development (TDD), Continuous integration (CI), Deployment
+- MERN stack
+- React
+- MongoDB
+- Express.js
+- Node.js
+- CRUD operations
+- Web application
+- Task management
+- To-Do list
+- Frontend development
+- Backend development
+- JavaScript
+- HTML
+- CSS
+- RESTful API
+- User interface design
+- Responsive design
+- Test-driven development (TDD)
+- Continuous integration (CI)
+- Deployment
+

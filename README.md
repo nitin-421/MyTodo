@@ -1,6 +1,6 @@
 # To-Do List Web Application using MERN Stack
 
-![To-Do List](/path/to/your/image.png)
+![To-Do List](/images/Screenshot%20(273).png)
 
 This project is a web-based TO-DO List application developed using the MERN stack, allowing users to effortlessly create, categorize, and track tasks. The objective is to provide a unified platform for streamlined task management. The project works on the principles of CRUD (Create, Read, Update, Delete) operations.
 

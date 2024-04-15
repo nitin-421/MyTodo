@@ -1,7 +1,5 @@
 # To-Do List Web Application using MERN Stack
 
-![To-Do List](/images/Screenshot%20(273).png)
-
 This project is a web-based TO-DO List application developed using the MERN stack, allowing users to effortlessly create, categorize, and track tasks. The objective is to provide a unified platform for streamlined task management. The project works on the principles of CRUD (Create, Read, Update, Delete) operations.
 
 ## Getting Started
@@ -24,13 +22,28 @@ Builds the app for production to the `build` folder. It correctly bundles React 
 
 **Note: this is a one-way operation. Once you `eject`, you can't go back!** If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project and copy all the configuration files and transitive dependencies (webpack, Babel, ESLint, etc) into your project so you have full control over them. At this point, you're on your own. You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature.
 
+![To-Do List](/images/Screenshot%20(273).png)
+
+
 ## Design & Testing
 
 The design phase of the TO-DO List application project was instrumental in bridging the gap between identified software requirements and a cohesive, visually pleasing user interface. This section delineates the fundamental design considerations, encompassing tables' structures, relationships, as well as flowcharts and pseudo code to outline the application's logical progression.
 
-![Flowchart](/path/to/your/flowchart.png)
+### Screenshots
 
-![UI Design](/path/to/your/ui_design.png)
+Here are some screenshots of the TO-DO List application:
+
+<kbd>
+  <img src="/images/Screenshot%20(274).png" alt="Screenshot 1" width="200"/>
+</kbd>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<kbd>
+  <img src="/images/Screenshot%20(275).png" alt="Screenshot 2" width="200"/>
+</kbd>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<kbd>
+  <img src="/images/Screenshot%20(276).png" alt="Screenshot 3" width="200"/>
+</kbd>
 
 ### Tables and Their Relationships
 
